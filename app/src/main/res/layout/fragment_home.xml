@@ -5,10 +5,13 @@
     android:layout_height="match_parent"
     tools:context=".fragment.HomeFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_button"
+        android:layout_width="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="40dp"
+        android:src="@drawable/ic_baseline_add_24"
+        android:layout_height="wrap_content" />
 
 </FrameLayout>

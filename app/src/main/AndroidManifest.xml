@@ -19,7 +19,11 @@
         <activity android:name=".SignUpActivity" />
         <activity android:name=".LoginActivity" />
         <activity android:name=".WelcomeActivity" />
+        <activity android:name="androidx.camera.activity.PhotoActivity">
+            <!-- Optional: configuration via meta-data tags can be added here -->
+        </activity>
         <activity android:name=".SplashScreenActivity">
+
             <!--            <intent-filter>-->
             <!--                <action android:name="android.intent.action.MAIN" />-->
 

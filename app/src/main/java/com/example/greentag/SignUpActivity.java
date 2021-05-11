@@ -24,7 +24,6 @@ import com.google.firebase.auth.FirebaseAuthInvalidCredentialsException;
 import com.google.firebase.auth.PhoneAuthCredential;
 import com.google.firebase.auth.PhoneAuthOptions;
 import com.google.firebase.auth.PhoneAuthProvider;
-import com.mukesh.OtpView;
 
 import java.util.concurrent.TimeUnit;
 
@@ -32,7 +31,6 @@ public class SignUpActivity extends AppCompatActivity {
 
     TextInputEditText nameField, phoneField, mailField;
     FirebaseAuth mAuth;
-    OtpView otpView;
     String mVerificationId;
     Button signUpBtn;
     PhoneAuthProvider.ForceResendingToken mResendToken;

@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gt_logo.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable-xhdpi\\gt_logo.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_splashscreen.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable-xxxhdpi\\splashscreen.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_phone_24.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable\\ic_baseline_phone_24.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splashscreen.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable-xxhdpi\\splashscreen.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gt_logo.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable-xxhdpi\\gt_logo.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_gt_logo.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable-ldpi\\gt_logo.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_leaderboard_24.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable\\ic_baseline_leaderboard_24.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gt_logo.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable-xxxhdpi\\gt_logo.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splashscreen.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable-hdpi\\splashscreen.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_splashscreen.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable-ldpi\\splashscreen.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_leaderboard.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\layout\\fragment_leaderboard.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splashscreen.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable-mdpi\\splashscreen.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splashscreen.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable-xhdpi\\splashscreen.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\menu_nav_menu.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gt_logo.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable-hdpi\\gt_logo.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_near_me.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\layout\\fragment_near_me.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_screen.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\layout\\activity_home_screen.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gt_logo.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\drawable-mdpi\\gt_logo.png"
+    },
+    {
+        "merged": "E:\\Applications\\Andoird projs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Applications\\Andoird projs\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]
