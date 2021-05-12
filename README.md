@@ -2,8 +2,8 @@
 ![Greentag(1)](https://user-images.githubusercontent.com/69467316/117923387-92953500-b311-11eb-949f-5caf7ccf1c41.png)
 
 
-##GreenTag 
-3We're collating geotag data of trees along with photo and age data, and build a community around tagging an tracking planted trees
+## GreenTag 
+We're collating geotag data of trees along with photo and age data, and build a community around tagging an tracking planted trees
  
 5 Screens/
 The home screen displays a feed of nearby users in the selected state
