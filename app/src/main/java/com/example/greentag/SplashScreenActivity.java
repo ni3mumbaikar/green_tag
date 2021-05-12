@@ -17,6 +17,7 @@ public class SplashScreenActivity extends AppCompatActivity {
         }
     }
 
+
     private void hideSystemUI() {
         // Enables regular immersive mode.
         // For "lean back" mode, remove SYSTEM_UI_FLAG_IMMERSIVE.
