@@ -21,8 +21,6 @@ Finishing off with the Profile section, which allows the user to track their tag
 
 ![2](https://user-images.githubusercontent.com/69467316/117923029-084cd100-b311-11eb-96e3-c401fe204923.png)
 
-![3](https://user-images.githubusercontent.com/69467316/117923039-0b47c180-b311-11eb-9a95-392b8b136ab9.png)
-
 
 
 
